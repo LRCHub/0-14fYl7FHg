@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "C’est La Vie（feat. bbno$、リッチ・ブライアン）",
+  "base_artist": "Yung Gravy",
+  "createdAt": "2026-02-22T05:14:13.693016Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C'est La Vie",
+      "artist": "Yung Gravy, bbno$ & Rich Brian",
+      "has_synced": false,
+      "path": "select/pl_01_C'est_La_Vie_Yung_Gravy,_bbno$_&_Rich_Brian.txt"
+    }
+  ]
+}
